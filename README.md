@@ -1,8 +1,8 @@
-#Facebook Video Downloader
+# Facebook Video Downloader
 HTML Parser:  BeautifulSoup
 GUI:          tk
 
-#Install Tk GUI Library
+# Install Tk GUI Library
 Execute command  $ sudo apt-get install python-tk
 
 #Get link from facebook
